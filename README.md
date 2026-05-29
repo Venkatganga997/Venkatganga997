@@ -83,8 +83,10 @@
                 </div>
 
                 <div align="center">
+
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatganga997&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" />
-                </div>div>
+
+                </div>
 
                 ---
 

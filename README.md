@@ -24,7 +24,7 @@ Senior Software Engineer with experience building production systems across fint
 
 Been part of the **Capital One and Discover merger** project recently - one of the biggest banking migrations in the US. That means working with massive legacy codebases, data reconciliation at scale, and coordinating across a lot of moving parts. Not glamorous but it teaches you a lot.
 
-On the AI side, I've been integrating LLMs into real applications for a while now. Not just wrappers around APIs - actual RAG pipelines, context management, prompt engineering for production, and keeping costs sane. I've worked with Claude, GPT-4, Gemini, Mistral and a bunch of open source models.
+On the AI side, I have been integrating LLMs into real applications for a while now. Not just wrappers around APIs - actual RAG pipelines, context management, prompt engineering for production, and keeping costs sane. I have worked with Claude, GPT-4, Gemini, Mistral and a bunch of open source models.
 
 <br clear="right"/>
 
@@ -42,7 +42,6 @@ On the AI side, I've been integrating LLMs into real applications for a while no
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,7 +65,7 @@ On the AI side, I've been integrating LLMs into real applications for a while no
 
 ## AI and LLM Work
 
-This is where I spend a lot of personal time. I think the gap between "calling an LLM API" and "shipping something useful with LLMs" is huge, and I've been on both sides of it.
+This is where I spend a lot of personal time. I think the gap between calling an LLM API and shipping something useful with LLMs is huge, and I have been on both sides of it.
 
 **Models I have worked with:**
 
@@ -91,22 +90,20 @@ This is where I spend a lot of personal time. I think the gap between "calling a
 - - Resume and job description analyzer using Gemini API - extracts skill gaps and gives structured match scores
   - - Prompt engineering for production - handling context windows, output formatting, fallbacks
     - - Integrated LangChain with internal REST services to add conversational memory to existing tools
-      - - Fine-tuned DistilBERT and Mistral 7B for domain-specific classification
+      - - Fine-tuned DistilBERT and Mistral 7B for domain-specific classification tasks
         - - Explored agentic patterns with AutoGen and CrewAI - multi-agent task delegation
           - - LangGraph for stateful agent workflows with conditional routing
             - - Vector search with FAISS and Pinecone for semantic similarity use cases
-              - - Claude API for document processing and structured data extraction - really good for long context tasks
+              - - Claude API for document processing and structured data extraction - really solid for long context tasks
                
                 - ---
 
                 ## GitHub Stats
 
                 <div align="center">
-
                 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Venkatganga997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
                 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatganga997&theme=tokyonight&hide_border=true" />
-
-                </div>
+                </div>div>
 
                 <div align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatganga997&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -118,7 +115,7 @@ This is where I spend a lot of personal time. I think the gap between "calling a
 
                 <div align="center">
 
-                [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatganga997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                [![Venkat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatganga997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
                 </div>
 
@@ -128,18 +125,10 @@ This is where I spend a lot of personal time. I think the gap between "calling a
 
                 <div align="center">
 
-                <a href="https://github.com/Venkatganga997/ai-job-analyzer">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=ai-job-analyzer&theme=tokyonight&hide_border=true" />
-                </a>a>
-                <a href="https://github.com/Venkatganga997/Personal-Chat-room">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=Personal-Chat-room&theme=tokyonight&hide_border=true" />
-                </a>a>
-                <a href="https://github.com/Venkatganga997/student-study-planner">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=student-study-planner&theme=tokyonight&hide_border=true" />
-                </a>a>
-                <a href="https://github.com/Venkatganga997/Spliwise-Application">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=Spliwise-Application&theme=tokyonight&hide_border=true" />
-                </a>a>
+                [![ai-job-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=ai-job-analyzer&theme=tokyonight&hide_border=true)](https://github.com/Venkatganga997/ai-job-analyzer)
+                [![Personal-Chat-room](https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=Personal-Chat-room&theme=tokyonight&hide_border=true)](https://github.com/Venkatganga997/Personal-Chat-room)
+                [![student-study-planner](https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=student-study-planner&theme=tokyonight&hide_border=true)](https://github.com/Venkatganga997/student-study-planner)
+                [![Spliwise-Application](https://github-readme-stats.vercel.app/api/pin/?username=Venkatganga997&repo=Spliwise-Application&theme=tokyonight&hide_border=true)](https://github.com/Venkatganga997/Spliwise-Application)
 
                 </div>
 

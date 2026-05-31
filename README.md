@@ -1,3 +1,9 @@
+> *"In the end, you get what you earn. Hard work, drive, and creativity get you further than luck alone. The rewards go to those who put in the effort, who are innovative, and who are persistent."*
+>
+> **— Michael Bloomberg, *Bloomberg by Bloomberg***
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Venkat%20Ganga&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=58&descSize=20" />
